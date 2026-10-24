@@ -104,7 +104,7 @@ Production-grade distributed system with a **6-microservice architecture**.
 - Hybrid rendering: SSR (Thymeleaf) for auth flows + React CSR dashboard
 - Business logic: enrollment cancellation windows, CNIE verification, reactive WebFlux backend
 - **Stack:** Java · Spring Boot · Spring Cloud · WebFlux · React · MySQL · Maven
-- 🔗 [Repository]([https://github.com/omaymaoulad/Student-Enrollment-System.git])
+- 🔗 [Repository](https://github.com/omaymaoulad/Student-Enrollment-System.git)
 
 ### 🤟 Sign Language Translation System (PSL → English)
 End-to-end pipeline recognizing **788 Pakistan Sign Language signs** from live webcam video, 99%+ accuracy on internal test data.
