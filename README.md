@@ -104,23 +104,23 @@ Production-grade distributed system with a **6-microservice architecture**.
 - Hybrid rendering: SSR (Thymeleaf) for auth flows + React CSR dashboard
 - Business logic: enrollment cancellation windows, CNIE verification, reactive WebFlux backend
 - **Stack:** Java · Spring Boot · Spring Cloud · WebFlux · React · MySQL · Maven
-- 🔗 [Repository](LIEN_REPO_EDUENROLL)
+- 🔗 [Repository]([https://github.com/omaymaoulad/Student-Enrollment-System.git])
 
 ### 🤟 Sign Language Translation System (PSL → English)
 End-to-end pipeline recognizing **788 Pakistan Sign Language signs** from live webcam video, 99%+ accuracy on internal test data.
 - Architecture: CNN features → BiLSTM sequence → Attention; deployed via a Streamlit interface
 - **Stack:** Python · PyTorch · MediaPipe · OpenCV · Streamlit
-- 🔗 [Repository](LIEN_REPO_PSL)
+- 🔗 [Repository](https://github.com/salmajaghoua23/signe-language-traduction.git)
 
 ### 📡 QoS/QoE Telecom KPI Analyzer
 Desktop application computing network quality KPIs (latency, jitter, throughput, MOS) from live network captures, with KPI dashboards and historical trends.
 - **Stack:** Java · JavaFX · Python · Oracle DB
-- 🔗 [Repository](LIEN_REPO_QOS)
+- 🔗 [Repository](https://github.com/omaymaoulad/Projet_Java_QoS-QoE.git)
 
 ### 🧑‍🏫 eService Platform: Teacher & Department Management
 Multi-role management system for teachers, coordinators and department heads: role-based access, scheduling, academic tracking, authenticated client-server architecture.
 - **Stack:** HTML · CSS · JavaScript · PHP
-- 🔗 [Repository](LIEN_REPO_ESERVICE)
+- 🔗 [Repository](https://github.com/salmajaghoua23/eservice.git)
 
 ### 👶 Childhood Vaccination Tracking System
 Live web application built during my internship for a government health delegation.
@@ -128,7 +128,7 @@ Live web application built during my internship for a government health delegati
 - 🔗 [Repository](https://github.com/omaymaoulad/vaccinationenfant)
 
 ### More projects
-- 📚 **BookWorm Library Management**: JavaFX · Hibernate · MySQL, MVC with 10 Gang of Four design patterns ([repo](LIEN_REPO_BOOKWORM))
+- 📚 **BookWorm Library Management**: JavaFX · Hibernate · MySQL, MVC with 10 Gang of Four design patterns ([repo](https://github.com/salmajaghoua23/BookWorm-Library-Management-system.git))
 
 
 ## 🎓 Education
